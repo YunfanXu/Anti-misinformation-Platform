@@ -12,7 +12,7 @@ Anti-misinformation Platform combined with browser extension application, web ap
 This is the back-end of the system, it contains pretrained Xception model to classify the manipulated facial iamges and videos, which includes Deepfakes, Face2Face, and FaceSwap. For more details for the model, please check my previous porject [here](https://github.com/YunfanXu/Detection-of-Manipulated-Facial-Video).
 
 ## misinformation_UI(Browser extension Front-end)
-[Project link](https://github.com/YunfanXu/misinformation_slayer)
+[Project link](https://github.com/YunfanXu/misinformation_slayer/tree/dev)
 
 This is the front-end project for the Chrome brwoser extension. You can add it into your chrome and then start the **Misinformation_Flask_API** back-end first.
 
